@@ -1,2 +1,2 @@
-# matplotlib-python-tutorial
-Matplotlib learning
+# Plotly-python-tutorial
+Plotly learning
